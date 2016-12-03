@@ -1,3 +1,12 @@
-# First Chapter
+# About
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+This GitBook is intended to be the primary resource for members of the Bristol Javascript 101 group.
+
+It will help them get started with the right technology and give them a learning road map.
+
+@todo This guide!  If you are already a member why not login and create a chapter!
+
+username: javascript101
+password: jabascript101
+
+
