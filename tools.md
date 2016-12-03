@@ -2,7 +2,7 @@
 
 
 ## Browser Dev Tools
-You can view error messages in the browser console.  We recommend using Chrome as your browsers but the others have very similar dev tools too.
+You can view error messages in the browser console.  We recommend using Chrome as your browser but the others have very similar dev tools too.
 
 [Chrome DevTools Overview
 ](https://developer.chrome.com/devtools)
