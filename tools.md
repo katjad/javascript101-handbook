@@ -15,3 +15,7 @@ You can debug your code by logging to the browser/terminal console:
 const foobar = 'orly!?'
 console.log('debug something: ', foobar)
 ```
+
+
+## Stack OverFlow
+If you have a bug search [Stack Overflow](http://stackoverflow.com/) first, it's probably been asked before!
