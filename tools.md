@@ -1,4 +1,4 @@
-# Tools
+# Debugging
 
 
 ## Browser Dev Tools
