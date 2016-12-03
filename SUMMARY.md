@@ -9,4 +9,5 @@
 * [Testing](testing.md)
 * [Tools](tools.md)
 * [Frameworks](frameworks.md)
+* Functional Programming
 
