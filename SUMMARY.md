@@ -7,7 +7,7 @@
 * [Node and Npm](node_and_npm.md)
 * [Version Control](version_control.md)
 * [Testing](testing.md)
-* [Tools](tools.md)
+* [Debugging](tools.md)
 * [Functional Programming](functional_programming.md)
 * [Frameworks](frameworks.md)
 * [Addtional Resources](addtional_resources.md)
