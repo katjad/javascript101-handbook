@@ -12,5 +12,5 @@ You can view page elements, the browser console and other useful features via de
 
 You can debug your code logging to the browser/terminal console
 ```
-console.log('debug stuff', foobar)
+console.log('debug something', foobar)
 ```
