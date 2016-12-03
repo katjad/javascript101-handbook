@@ -37,7 +37,7 @@ We would recommend starting off by reading a book on Javascript to get familar w
 ## Online Courses
 * 
 [Free Code Camp
-](https://www.freecodecamp.com/)
+](https://www.freecodecamp.com/) (Most starred project on github after Twitter Bootstrap!)
 * 
 [Tree House
 ](https://teamtreehouse.com/library/topic:javascript)
