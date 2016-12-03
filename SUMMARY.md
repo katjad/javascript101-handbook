@@ -8,6 +8,6 @@
 * [Version Control](version_control.md)
 * [Testing](testing.md)
 * [Tools](tools.md)
-* Functional Programming
+* [Functional Programming](functional_programming.md)
 * [Frameworks](frameworks.md)
 
