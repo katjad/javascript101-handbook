@@ -12,6 +12,6 @@ You can view page elements, the browser console and other useful features via de
 
 You can debug your code logging to the browser/terminal console:
 ```
-const foobar = 'orly?'
+const foobar = 'oRly!?'
 console.log('debug something: ', foobar)
 ```
