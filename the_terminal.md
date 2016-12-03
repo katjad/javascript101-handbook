@@ -1,4 +1,4 @@
-# The Terminal
+# The Terminal Window
 
 Learning to use the terminal is important for setting up projects and package management.
 
