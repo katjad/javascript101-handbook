@@ -18,4 +18,4 @@ console.log('debug something: ', foobar)
 
 
 ## Stack OverFlow
-If you have a bug search [Stack Overflow](http://stackoverflow.com/) first, it's probably been asked before!
+If you have a bug search [Stack Overflow](http://stackoverflow.com/) first, it's probably been experienced before!
