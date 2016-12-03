@@ -1,10 +1,11 @@
-# The Awesome JS101 Guide
+# Javascript 101 Handbook
 
-This GitBook is intended to be the primary resource for members of the Bristol Javascript 101 group.
+Welcome to the Javascript 101 Handbook.
 
-It will help them get started with the right technology and give them a learning road map.
+This opinionated guide aims to help kick start your javascript learning.
 
-@todo This guide!  If you are already a member why not login and contribute a chapter!
+## Contributing
+If you are already a member why not login and contribute to a chapter!
   
 username: javascript101  
 password: jabascript101 
