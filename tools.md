@@ -8,7 +8,7 @@ You can view page elements, the browser console and other useful features via de
 ](https://developer.chrome.com/devtools)
 
 
-## Console.log is your friend
+## console.log is your friend
 
 You can debug your code logging to the browser/terminal console:
 ```
