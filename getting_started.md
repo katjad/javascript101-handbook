@@ -13,7 +13,7 @@ There are many ways to edit code, find one which suits your needs:
 [Atom](https://atom.io/) is written in Javascript and is hackable!
 
 ### IDE
-[Web Storm](https://www.jetbrains.com/webstorm/) the best IDE around at them moment.
+[Web Storm](https://www.jetbrains.com/webstorm/) the best IDE around at the moment, ideal for big projects.
 
 ### Old School
 If you want to get old school use vim and never use your mouse again!
