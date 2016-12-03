@@ -1,6 +1,6 @@
 # Functional Programming
 
-A great introduction [Learning Functional Programming](https://www.youtube.com/watch?v=e-5obm1G_FY) by Anjana Vakil
+[Learning Functional Programming](https://www.youtube.com/watch?v=e-5obm1G_FY) by Anjana Vakil
 
 [Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk) does a great series on the concepts.
 
