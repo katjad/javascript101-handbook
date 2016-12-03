@@ -6,4 +6,6 @@ We recommend being comfortable with the core javascript concepts and functional 
 
 [React](https://facebook.github.io/react/) is a revolutionary and popular framework made by Facebook.  
 
+
+  :steam_locomotive::train::train::train::train::train:
 [Choo](https://github.com/yoshuawuyts/choo) is a fun framework that we might be using more of!
