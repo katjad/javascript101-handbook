@@ -48,5 +48,5 @@ We would recommend starting off by reading a book on Javascript to get familar w
 [Udacity](https://www.udacity.com/)
 
 ```
-If you are serious about leveling up your programming skills try the [Introduction to Programming Course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) with MIT on Edx.  It's in Python and is an intensive 3 months, however the skills will prepare you for anything.
+If you are serious about leveling up your programming skills try the [Introduction to Programming Course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) with MIT on Edx.  It's in Python and is an intensive 3 months, however the skills gained will prepare you for anything.
 ```
