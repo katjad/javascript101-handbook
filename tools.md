@@ -10,7 +10,7 @@ You can view page elements, the browser console and other useful features via de
 
 ## Console.log is your friend
 
-You can debug your code using the console log command and view the result in your browser dev tools.
+You can debug your code logging to the browser/terminal console
 ```
-console.log('debug', foobar)
+console.log('debug stuff', foobar)
 ```
