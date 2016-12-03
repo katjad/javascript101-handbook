@@ -3,7 +3,7 @@
 ## Operating System
 We recommend using Linux(Ubuntu) or Mac for development due to the Linux Terminal.  If you are using Windows you could try [setting up a Virtual Machine to run Ubuntu](http://www.instructables.com/id/Introduction-38/).
 
-## Editing Code
+## Editing Code 
 There are many ways to edit code, find one which suits your needs:  
 
 ###Browser Based
