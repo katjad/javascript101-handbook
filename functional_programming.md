@@ -11,3 +11,8 @@
 [Ramda](http://ramdajs.com/) is the libary to use for FP. 
 
 [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
+
+## GitBook
+A great gitbook on FP (does get complicated towards the end tho)
+
+[drboolean mostly-adequate-guide](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
