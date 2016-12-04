@@ -30,7 +30,7 @@ If you want to get old school use vim and never use your mouse again!
 ![](https://zombiecodekill.files.wordpress.com/2014/07/javascript-the-good-parts-the-definitive-guide.jpg)
 We would recommend starting off by reading a book on Javascript to get familar with the basics.
 
-[Eloquent Javascript](http://eloquentjavascript.net/) is a group favourite it is well written, complete with exercises and available online.
+[Eloquent Javascript](http://eloquentjavascript.net/) is a group favourite as it is well written, complete with exercises and available free online.
 
 ### Further Reading:
 
