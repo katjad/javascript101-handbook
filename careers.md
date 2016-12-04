@@ -6,7 +6,7 @@ You also have to think about how you can distinguish yourself from other candida
 
 Start to build a portfolio of your skills on github with creative projects.  There is nothing more impressive than having a demo to show a prospective employer.  
 
-Get interview fit by doing lots of interviews.  Learn how to relax and demonstrate your value through examples of your experience.
+Get interview fit by doing lots of interviews.  Learn how to relax and let your value shine through by giving examples of your experience and problem solving.
 
 Become a loss leader and do some free / low paid freelance projects for experience.
 
