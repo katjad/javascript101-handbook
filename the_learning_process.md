@@ -14,7 +14,7 @@ In the book Outliers, author Malcolm Gladwell says that it takes roughly [ten th
 
 You may not want to become a master, but to get anywhere you are going to have to put a few hours of practice in on a regular basis.
 
-This is the foundation of [Free Code Camp](https://www.freecodecamp.com/) where after a years full time study you should reach a good level.
+This is the foundation of [Free Code Camp](https://www.freecodecamp.com/) where after a years full time study you should reach a proficient level.
 
 
 ## Read the Source, Luke
