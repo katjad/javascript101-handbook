@@ -1,6 +1,7 @@
 # Functional Programming
 
 ![](http://images.moviefanatic.com/iu/s--eLN1Oe8p--/t_full/f_auto,fl_lossy,q_75/v1364991161/mugatu.jpg)
+
 Functional Programming is so hot right now.
 
 [Learning Functional Programming](https://www.youtube.com/watch?v=e-5obm1G_FY) by Anjana Vakil
