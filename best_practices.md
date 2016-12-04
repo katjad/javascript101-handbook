@@ -77,8 +77,7 @@ Remember software development is an iterative process.  Don't expect to write it
 Two heads are better than one!
 
 ## Coding Standards
-[Code Conventions for the JavaScript Programming Language
-](http://javascript.crockford.com/code.html)
+https://github.com/rwaldron/idiomatic.js
 
 [ESlint](http://eslint.org/)
 
