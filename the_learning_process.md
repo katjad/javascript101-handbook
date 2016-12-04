@@ -1,6 +1,8 @@
 # The Learning Process
 
-![](yoda.jpg)Learn Javascript you will.
+![](yoda.jpg)
+
+Learn Javascript you will.
 
 
 ## Personal Projects
