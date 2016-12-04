@@ -10,7 +10,7 @@ Get interview fit by doing lots of interviews.  Learn how to relax and let your 
 
 Become a loss leader and do some free / low paid freelance projects for experience.
 
-Perhaps learn other languages as well.
+Show an interest in other programming languages as well.
 
 Contribute to open source projects such as ours.
 
