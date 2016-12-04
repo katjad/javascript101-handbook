@@ -85,6 +85,9 @@ Two heads are better than one!
 ## Testing
 Learn how to practice TDD/BDD it will help you write decoupled code with less bugs.
 
+## Use the source control, Luke!
+Use source control, what would happen if the dog ate your codes?
+
 ## Have Fun!
 
 > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." 
