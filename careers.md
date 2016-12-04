@@ -18,6 +18,6 @@ Release a mobile app.
 
 Get involved with meet up groups.
 
-Go to tech events such a [TechSPARK](https://techspark.co/) and meet recruiting companies looking to hire.
+Go to tech events such as [TechSPARK](https://techspark.co/) and meet recruiting companies looking to hire.
 
 Keep up on the bleeding edge of technology and trends.
