@@ -30,7 +30,7 @@ A note pad and pen are the best tools for planning your solution and will save y
 * [Kanban](https://www.atlassian.com/agile/kanban)
 
 
-## Code Structure
+## Structure Code
 * Modules
 * Functions
 * Patterns
