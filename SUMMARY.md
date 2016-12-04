@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting Started](getting_started.md)
-   * The Learning Process
 * [Getting Started](getting_started0.md)
 * [About](chapter1.md)
 * [The Learning Process](the_learning_process.md)
