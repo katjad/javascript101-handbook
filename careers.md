@@ -8,7 +8,7 @@ Start to build a portfolio of your skills on github with creative projects.  The
 
 Get interview fit by doing lots of interviews.  Learn how to relax and let your value shine through by giving examples of your experience and problem solving.
 
-Become a loss leader and do some free / low paid freelance projects for experience.  Do a project for a non-profit organisation.  Get an internship.
+Become a loss leader and do some free / low paid freelance projects for experience.  Do a project for a non-profit organisation.  Get an internship.  Any thing to demostrate that you have some commerical experience.
 
 Show an interest in other programming languages as well.
 
