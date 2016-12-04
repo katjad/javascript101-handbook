@@ -76,6 +76,15 @@ Remember software development is an iterative process.  Don't expect to write it
 ## Pair Programming
 Two heads are better than one!
 
+## Coding Standards
+[Code Conventions for the JavaScript Programming Language
+](http://javascript.crockford.com/code.html)
+
+[ESlint](http://eslint.org/)
+
+## Testing
+Learn how to practice TDD/BDD it will help you write decoupled code with less bugs.
+
 ## Have Fun!
 
 > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." 
