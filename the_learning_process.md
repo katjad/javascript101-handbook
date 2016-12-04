@@ -8,6 +8,9 @@ Find a mentor.
 
 The best way to get good at coding is to make your own passion project and get stuck in!
 
+## Meet Ups
+Go to a meet up and talk to other developers.  It's a great way to find out what's happening in the world of Javascript.
+
 ## Confusion
 > Remember if you feel confused, thats's good!  It means you are learning something!
        - Fun Fun Function
