@@ -6,7 +6,11 @@ We recommend reading, understanding and practice.
 
 Find a mentor.
 
+## Personal Projects
 The best way to get good at coding is to make your own passion project and get stuck in!
+
+## Practice Makes Perfect
+...
 
 ## Read the Source, Luke
 Take the time to read the source code of other projects.  It will help you write beautiful code in no time.
