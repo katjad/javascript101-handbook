@@ -92,7 +92,7 @@ Comment your code, however if you have well structured code with declarative fun
 [Learn the art of README
 ](https://github.com/noffle/art-of-readme)
 
-## Software Development Patterns
+## Design Patterns
 Design patterns are reusable solutions to commonly occurring problems in software design.  They allow us to stand on the shoulders of the combined experience of the many developers that came before us.
 
 [Learning JavaScript Design Patterns
