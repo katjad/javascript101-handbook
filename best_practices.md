@@ -62,7 +62,7 @@ Is there a module, tool or framework already written that fits your solution?
 
 
 > "Good programmers know what to write. Great ones know what to rewrite (and reuse)"
-   -   Eric S. Raymond
+        - Eric S. Raymond
 
 
 
