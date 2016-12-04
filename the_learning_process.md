@@ -10,7 +10,7 @@ Find a mentor.
 The best way to get good at coding is to make your own passion project and get stuck in!
 
 ## Practice Makes Perfect
-...
+In the book Outliers, author Malcolm Gladwell says that it takes roughly [ten thousand hours](http://wisdomgroup.com/blog/10000-hours-of-practice/) of practice to achieve mastery in a field.  We're not suggesting that you studying Javascript full time for 5 years to master it, but perhaps just get good enough and then get the rest of the hours in during paid work!
 
 ## Read the Source, Luke
 Take the time to read the source code of other projects.  It will help you write beautiful code in no time.
