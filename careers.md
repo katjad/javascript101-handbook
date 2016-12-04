@@ -12,7 +12,7 @@ Become a loss leader and do some free / low paid freelance projects for experien
 
 Show an interest in other programming languages as well.
 
-Contribute to open source projects such as ours.
+Contribute to open source projects such as our own.
 
 Release an app.
 
