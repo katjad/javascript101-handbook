@@ -73,6 +73,9 @@ Keep your code readable.  You and others will thank you in the future!
 ## Iteration
 Remember software development is an iterative process.  Don't expect to write it perfect first time.  Make it good enough and then refactor your code to make it better.
 
+## Pair Programming
+Two heads are better than one!
+
 ## Have Fun!
 
 > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." 
