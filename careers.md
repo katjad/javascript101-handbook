@@ -1,6 +1,6 @@
 # Careers
 
-If you would like to do Javascript professionally it is obviously important to learn it properly.
+If you would like to do Javascript professionally it is obviously important to learn it properly, but also be confident speaking about it and other software development methodologies.
 
 You also have to think about how you can distinguish yourself from other candidates in a job interview.
 
