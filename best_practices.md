@@ -90,8 +90,8 @@ Use source control, what would happen if the dog ate your codes?
 ## Documentation
 Comment your code, however if you have well structured and named functions and variables the code should speak for it's self.
 
-[Write a good README.](https://github.com/noffle/art-of-readme for your projects.  
-
+[Learn the art of README
+](https://github.com/noffle/art-of-readme)
 ## Keep learning
 Never stop learning.  There are so many resources out there.  Try other languages.  Talk to other developers.  What's happening in the community?  Keep adding new tools to your belt, then you have more options for your solutions.
 
