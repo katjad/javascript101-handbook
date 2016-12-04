@@ -14,4 +14,5 @@
 * [Functional Programming](functional_programming.md)
 * [Frameworks](frameworks.md)
 * [Addtional Resources](addtional_resources.md)
+* Best Practices
 
