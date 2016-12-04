@@ -42,21 +42,22 @@ If you want to get old school install vim via the command line and never use you
 
 We would recommend starting off by reading a book on Javascript to get familar with the basics.
 
-Eloquent Javascript is a group favourite as it is well written, complete with exercises and available free online.
+[Eloquent Javascript](http://eloquentjavascript.net/) is a group favourite as it is well written, complete with exercises and available free online.
 
 Further Reading:
 
-* Javascript - The Good Parts
-* You don't know JS
-* Secrets of the Javascript Ninja
-* The Pragmatic ProgrammerClean Code
+* [Javascript - The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Secrets of the Javascript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja)
+* [The Pragmatic Programmer](http://www.cartipdf.net/carte/descarca-hunt-a-thomas-d-the-pragmatic-programmer-from-journeyman-to-master-pdf)
+* [Clean Code](http://ricardogeek.com/docs/clean_code.pdf)
 
 ##Online Courses
 
-* Free Code Camp (Most starred project on github after Twitter Bootstrap!)
-* Tree House
-* Code Academy
-* Udacity
+* [Free Code Camp](https://www.freecodecamp.com/) (Most starred project on github after Twitter Bootstrap!)
+* [Tree House](https://teamtreehouse.com/library/topic:javascript)
+* [Code Academy](https://www.codecademy.com/)
+* [Udacity](https://www.udacity.com/)
 * [Introduction to Programming Course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) with MIT on Edx.
 
 ## Further Resources
