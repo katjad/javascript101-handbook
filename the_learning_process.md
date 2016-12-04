@@ -9,6 +9,7 @@ Find a mentor.
 The best way to get good at coding is to make your own passion project and get stuck in!
 
 ##GTL
+An ancroymn standing for Grok, Trunk, Live.  Adapting some the seminal talk [Learn Brogramming, The Hard Way](https://www.youtube.com/watch?v=BWsAQsydzR4)
 
 ## Grok
 Learn something new everyday.
