@@ -20,4 +20,4 @@ Trunk is more than just the SVN directory.
 Trunking is a way of life; it's expanding the tools in your programming tool belt to make you adapt to any situation.
 
 ## Live
-Life is short; programmers live it up.
+Life is short; don't forget to have fun.
