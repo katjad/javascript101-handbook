@@ -45,9 +45,6 @@ Keep it simple, stupid.
         — Leonardo da Vinci
 
 
-
-
-
 ## DRY
 [Don't repeat yourself!](https://en.wikipedia.org/wiki/Don't_repeat_yourself)  If you find yourself writing the same code more than twice, break it out into a function.
 
