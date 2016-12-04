@@ -17,3 +17,5 @@ Contribute to open source projects such as our own.
 Release a mobile app.
 
 Get involved with meet up groups.
+
+Keep up with the latest technology and trends.
