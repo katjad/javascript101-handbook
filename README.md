@@ -8,4 +8,4 @@ Let's help you get started with Javascript.
 If you would like to help please login and contribute to a chapter!
   
 username: javascript101  
-password: jabascript101 
+password: javascript101 
