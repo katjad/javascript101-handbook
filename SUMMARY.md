@@ -4,7 +4,7 @@
 * [About](chapter1.md)
 * [Getting Started](gettingstarted_md.md)
 * [The Learning Process](the_learning_process.md)
-* [What makes a good Javascript Developer?](what_makes_a_good_javascript_developer.md)
+* [What makes a good Javascript Developer?](whatmakes_a_good_javascript_developer_md.md)
    * Best Practices
 * [Key Concepts](key_concepts.md)
 * [Best Practices](best_practices.md)
