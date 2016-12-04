@@ -16,8 +16,8 @@ const foobar = 'orly!?'
 console.log('debug something: ', foobar)
 ```
 
-## Google
-Learn how to search properly.  For example if you wanted to find out more about the ES6 spread operator (...), don't search for '...'!
+## Search
+Learn how to search properly, both your code and google.  
 
 ## Stack OverFlow
 If you have a bug search [Stack Overflow](http://stackoverflow.com/) first, it's probably been experienced before!
