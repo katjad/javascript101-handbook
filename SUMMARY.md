@@ -14,7 +14,7 @@
 * [Debugging](tools.md)
 * [Functional Programming](functional_programming.md)
 * [Frameworks](frameworks.md)
+* [Tooling](tooling.md)
 * [Addtional Resources](addtional_resources.md)
 * [Careers](careers.md)
-* [Tooling](tooling.md)
 
