@@ -11,19 +11,19 @@ Learning to use the terminal will open up doors for you.  It is important for se
 
 ## Useful commands
 ```
-install package - sudo apt-get install [package name]
-change directory - cd 
-list files and folders - ls
-show current path - pwd
-previous commands - up / down cursor
-auto complete file names - tab
-copy all files and folder recursively - cp -rf [target path] [source path]
-move files - mv [target path] [source path]
-show historic commands - history
-make directory - mkdir
-remove - rm
-clear console - clear
-show file contents - cat [file path]
-network info (inc your ip address) - ifconfig
+sudo apt-get install [package name] - install package 
+cd - change directory
+ls - list files and folders
+pwd - show current path
+up / down cursor - previous commands
+tab - auto complete file names
+cp -rf [target path] [source path] - copy all files and folder recursively 
+mv [target path] [source path] - move files
+history - show historic commands
+mkdir - make directory
+rm - remove
+clear - clear console
+cat [file path] - show file contents
+ifconfig - network info (inc your ip address)
 
 ```
