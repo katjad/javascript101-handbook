@@ -88,7 +88,7 @@ Learn how to practice TDD/BDD it will help you write decoupled code with less bu
 Use source control, what would happen if the dog ate your codes?
 
 ## Documentation
-Comment your code, however if you have well structured and named functions and variables the code should speak for it's self.
+Comment your code, however if you have well structured code with declarative functions and variables the code should speak for it's self.
 
 [Learn the art of README
 ](https://github.com/noffle/art-of-readme)
