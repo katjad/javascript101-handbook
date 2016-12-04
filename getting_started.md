@@ -37,8 +37,8 @@ We would recommend starting off by reading a book on Javascript to get familar w
 * [Javascript - The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Secrets of the Javascript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja)
-* The Pragmatic Programmer
-* Clean Code
+* [The Pragmatic Programmer](http://www.cartipdf.net/carte/descarca-hunt-a-thomas-d-the-pragmatic-programmer-from-journeyman-to-master-pdf)
+* [Clean Code](http://ricardogeek.com/docs/clean_code.pdf)
 
 ## Online Courses
 * 
