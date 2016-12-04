@@ -4,7 +4,7 @@
 * [About](chapter1.md)
 * [Getting Started](gettingstarted_md.md)
 * [The Learning Process](the_learning_process.md)
-* [What makes a good programmer?](what_makes_a_good_programmer.md)
+* [What makes a good developer?](what_makes_a_good_programmer.md)
 * [Key Concepts](key_concepts.md)
 * [Best Practices](best_practices.md)
 * [Terminal Window](the_terminal.md)
