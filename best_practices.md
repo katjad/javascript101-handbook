@@ -88,7 +88,7 @@ Learn how to practice TDD/BDD it will help you write decoupled code with less bu
 Use source control, what would happen if the dog ate your codes?
 
 ## Keep learning
-Never stop learning.  There are so many resources out there.  Try other languages.  Talk to other developers.  What's happening in the community?
+Never stop learning.  There are so many resources out there.  Try other languages.  Talk to other developers.  What's happening in the community?  Keep adding new tools to your belt, then you have more options for your solutions.
 
 ## Have Fun!
 
