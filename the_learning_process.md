@@ -8,6 +8,10 @@ Find a mentor.
 
 The best way to get good at coding is to make your own passion project and get stuck in!
 
+## Confusion
+> Remember if you feel confused, thats's good!  It means you are learning something!
+       - Fun Fun Function
+
 ##GTL
 An acronym standing for Grok, Trunk, Live.  
 
