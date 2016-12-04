@@ -1,4 +1,4 @@
-# Version Control
+# Source Control
 
 In order to manage your own code and share code with others you need to use version control.
 
