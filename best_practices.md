@@ -87,6 +87,9 @@ Learn how to practice TDD/BDD it will help you write decoupled code with less bu
 ## Use the source control, Luke!
 Use source control, what would happen if the dog ate your codes?
 
+## Keep learning
+Never stop learning.  There are so many resources out there.  Try other languages.  Talk to other developers.  What's happening in the community?
+
 ## Have Fun!
 
 > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." 
