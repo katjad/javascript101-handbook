@@ -64,7 +64,14 @@ Is there a module, tool or framework already written that fits your solution?
 > "Good programmers know what to write. Great ones know what to rewrite (and reuse)"
         - Eric S. Raymond
 
+## Clean Code
+Keep your code readable.  You and others will thank you in the future!
 
+[Read more
+](http://ricardogeek.com/docs/clean_code.pdf)
+
+## Iteration
+Remember software development is an iterative process.  Don't expect to write it perfect first time.  Refactor your code to make it better.
 
 ## Have Fun!
 
