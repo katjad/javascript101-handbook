@@ -1,5 +1,7 @@
 # Douglas Crockford
 
+![](douglas-big.jpg)
+
 [The God Father of Javascript
 ](https://en.wikipedia.org/wiki/Douglas_Crockford)
 ```
