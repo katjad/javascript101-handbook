@@ -34,6 +34,13 @@ Your functions and objects should do one thing only and do it well.
 ## KISS
 Keep it simple, stupid.
 
+
+> Simplicity is prerequisite for reliability.
+
+        — Edsger W. Dijkstra
+
+
+
 ## DRY
 [Don't repeat yourself!](https://en.wikipedia.org/wiki/Don't_repeat_yourself)  If you find yourself writing the same code more than twice, break it out into a function.
 
@@ -45,6 +52,7 @@ Is there a module, tool or framework already written that fits your solution?
 
 ## Have Fun!
 
-> "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." - Linus Torvalds
+> "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." 
+        - Linus Torvalds
 
 
