@@ -18,5 +18,5 @@
 * [Frameworks](frameworks.md)
 * [Addtional Resources](addtional_resources.md)
 * [Careers](careers.md)
-* What makes a good programmer?
+* [What makes a good programmer?](what_makes_a_good_programmer.md)
 
