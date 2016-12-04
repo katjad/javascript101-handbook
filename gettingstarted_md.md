@@ -9,7 +9,7 @@ We use [Gitter](https://gitter.im/CodeHubOrg/discussions) as a group chat and to
 We use Drop Box to share useful books and other resources.
 
 ##CodeHub Discussions
-See what we have been up to over the previous sessions on the [discussions board](https://github.com/CodeHubOrg/discussions/issues/).
+See what we have been up to over the previous sessions by reading Katja's excellent write ups on the [discussions board](https://github.com/CodeHubOrg/discussions/issues/).
 
 ##Operating System
 
