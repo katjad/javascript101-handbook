@@ -46,7 +46,10 @@ Eloquent Javascript is a group favourite as it is well written, complete with ex
 
 Further Reading:
 
-Javascript - The Good PartsYou don't know JSSecrets of the Javascript NinjaThe Pragmatic ProgrammerClean Code
+* Javascript - The Good Parts
+* You don't know JS
+* Secrets of the Javascript Ninja
+* The Pragmatic ProgrammerClean Code
 
 ##Online Courses
 
