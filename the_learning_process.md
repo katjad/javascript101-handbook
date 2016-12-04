@@ -12,7 +12,7 @@ The best way to get good at coding is to make your own passion project and get s
 ## Practice Makes Perfect
 In the book Outliers, author Malcolm Gladwell says that it takes roughly [ten thousand hours](http://wisdomgroup.com/blog/10000-hours-of-practice/) of practice to achieve mastery in a field.  
 
-You may not want to become a master, but to get anywhere you are going to have to put a few hours of practice in on a regular basis.
+You may not need to become a Jedi Master, but to get anywhere you are going to have to put a few hours of practice in on a regular basis.
 
 This is the foundation of [Free Code Camp](https://www.freecodecamp.com/) where after a years full time study you should reach a proficient level.
 
