@@ -2,6 +2,8 @@
 
 Welcome to Javascript 101 meet up group!
 
+![](JaY.png)
+
 Let's help you get started with Javascript. 
 
 ## Contributing
