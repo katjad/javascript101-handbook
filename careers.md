@@ -18,4 +18,4 @@ Release a mobile app.
 
 Get involved with meet up groups.
 
-Keep up with the latest technology and trends.
+Keep up on the bleeding edge of technology and trends.
