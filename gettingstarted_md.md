@@ -2,7 +2,7 @@
 
 ##Gitter
 
-We use Gitter as a group chat and to send links etc. Create a github account and login!
+We use [Gitter](https://gitter.im/CodeHubOrg/discussions) as a group chat and to send links etc. Create a github account and login!
 
 ##Drop Box
 
