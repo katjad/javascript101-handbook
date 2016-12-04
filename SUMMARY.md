@@ -9,7 +9,7 @@
 * [Best Practices](best_practices.md)
 * [Terminal Window](the_terminal.md)
 * [Node and Npm](node_and_npm.md)
-* [Version Control](version_control.md)
+* [Source Control](version_control.md)
 * [Testing](testing.md)
 * [Debugging](tools.md)
 * [Functional Programming](functional_programming.md)
