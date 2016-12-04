@@ -11,3 +11,7 @@ npm install -g how-to-npm
 how-to-npm
 ```
 
+
+> If you are having difficulty getting set up ask someone for help at the Javascript 101 group either at the meet up or online. 
+
+
