@@ -9,7 +9,7 @@
 * People Skills
 
 
-> Remember if learning JS feels difficult or confusing, thats's good!  It means you are learning something!
+> Remember if you feel confused, thats's good!  It means you are learning something!
 
 
 
