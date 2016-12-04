@@ -4,12 +4,12 @@
 Before you dive into coding, take a step back and think about the problem.
 
 
-> A few weeks of hard work can save a few hours of careful planning
+> "A few weeks of hard work can save a few hours of careful planning"
 
 A note pad and pen are the best tools for planning your solution and will save you a lot of time and headaches.
 
 
-> First, solve the problem. Then, write the code.
+> "First, solve the problem. Then, write the code."
 
         — John Johnson
 
@@ -43,7 +43,7 @@ Keep it simple, stupid.
 
 
 
-> Simplicity is the ultimate sophistication.
+> "Simplicity is the ultimate sophistication."
 
         — Leonardo da Vinci
 
@@ -59,6 +59,12 @@ Keep it simple, stupid.
 
 ## Reuse Code
 Is there a module, tool or framework already written that fits your solution?
+
+
+> "Good programmers know what to write. Great ones know what to rewrite (and reuse)"
+   -   Eric S. Raymond
+
+
 
 ## Have Fun!
 
