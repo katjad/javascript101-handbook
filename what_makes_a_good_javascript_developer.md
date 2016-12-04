@@ -9,8 +9,3 @@
 * People Skills
 
 
-> Remember if you feel confused, thats's good!  It means you are learning something!
-       - Fun Fun Function
-
-
-
