@@ -70,7 +70,7 @@ Keep your code readable.  You and others will thank you in the future!
 ](http://ricardogeek.com/docs/clean_code.pdf)
 
 ## Iteration
-Remember software development is an iterative process.  Don't expect to write it perfect first time.  Make it good enough and then refactor your code to make it better.
+Remember software development is an iterative process.  Don't expect to write it perfect first time.  Make it good enough and then refactor your code to make it better next time.
 
 ## Pair Programming
 Two heads are better than one!
@@ -91,6 +91,16 @@ Comment your code, however if you have well structured code with declarative fun
 
 [Learn the art of README
 ](https://github.com/noffle/art-of-readme)
+
+## Software Development Patterns
+Design patterns are reusable solutions to commonly occurring problems in software design.  They allow us to stand on the shoulders of the combined experience of the many developers that came before us.
+
+[Learning JavaScript Design Patterns
+](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript)
+
+## Anti Patterns
+[You don't want to do it like that.](https://sourcemaking.com/antipatterns/software-development-antipatterns)
+
 ## Keep learning
 Never stop learning.  There are so many resources out there.  Try other languages.  Talk to other developers.  What's happening in the community?  Keep adding new tools to your belt, then you have more options for your solutions.
 
