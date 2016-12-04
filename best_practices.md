@@ -77,6 +77,7 @@ Two heads are better than one!
 
 ## Code Reviews
 ![](https://blog.codinghorror.com/content/images/uploads/2009/02/6a0120a85dcdae970b012877707a45970c-pi.png)
+
 Ask someone to review you code for feedback. 
 
 
