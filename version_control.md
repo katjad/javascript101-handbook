@@ -30,6 +30,7 @@ git add . - add all files
 git add -u - add deleted files
 git commit -am "[commit message]" - add and commit with message
 git push [remote] [branch] - push changes to remote (typicall called origin) and branch name (main branch is called master)
+git merge branch - merge branch into current one
 ```
 ## Config
 The git config file is found in your project folder ./git/config
