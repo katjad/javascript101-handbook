@@ -4,7 +4,7 @@
 We use [Gitter](https://gitter.im/) as a group chat and to send links etc.  Create a github account and login! 
 
 ## Drop Box
-We use Drop Box to share useful books and other resources.
+We use [Drop Box](https://www.dropbox.com/) to share useful books and other resources.
 
 ## Operating System
 We recommend using Linux(Ubuntu) or Mac for development due to the Linux Terminal.  If you are using Windows you could try [setting up a Virtual Machine to run Ubuntu](http://www.instructables.com/id/Introduction-38/).
