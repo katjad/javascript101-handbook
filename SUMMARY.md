@@ -13,9 +13,9 @@
 * [Testing](testing.md)
 * [Debugging](tools.md)
 * [Functional Programming](functional_programming.md)
+* [Data](databases.md)
 * [Frameworks](frameworks.md)
 * [Tooling](tooling.md)
 * [Addtional Resources](addtional_resources.md)
 * [Careers](careers.md)
-* [Data](databases.md)
 
