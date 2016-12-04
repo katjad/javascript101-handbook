@@ -21,6 +21,9 @@ git-it
 ## Useful commands
 ```
 git clone [url] - clone a git repo
+git init - intialise git repo
+git log - show log
+git status -s - show working directory status
 git checkout [branch] - check out a branch
 git checkout -b [branch] - make a new branch based on current branch
 git add . - add all files
