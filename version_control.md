@@ -18,5 +18,17 @@ npm install -g git-it
 git-it
 ```
 
+## Useful commands
+git clone [url] - clone a git repo
+git checkout [branch] - check out a branch
+git checkout -b [branch] - make a new branch based on current branch
+git add . - add all files
+git add -u - add deleted files
+git commit -am "[commit message]" - add and commit with message
+git push [remote] [branch] - push changes to remote (typicall called origin) and branch name (main branch is called master)
+
+## Config
+The git config file is found in your project folder ./git/config
+
 ### Pull Requests
 [How to make pull requests](https://docs.google.com/presentation/d/12XPsgBkarJLA6I1UJd7HK1izUpQfX2Lt2gQq91z9XNQ/edit?usp=sharing)
