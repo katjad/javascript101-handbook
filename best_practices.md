@@ -75,6 +75,11 @@ Remember software development is an iterative process.  Don't expect to write it
 ## Pair Programming
 Two heads are better than one!
 
+## Code Reviews
+![](https://blog.codinghorror.com/content/images/uploads/2009/02/6a0120a85dcdae970b012877707a45970c-pi.png)
+Ask someone to review you code for feedback. 
+
+
 ## Coding Standards
 https://github.com/rwaldron/idiomatic.js
 
