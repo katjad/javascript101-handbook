@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Getting Started](getting_started.md)
    * The Learning Process
+* [Getting Started](getting_started0.md)
 * [About](chapter1.md)
 * [The Learning Process](the_learning_process.md)
 * [What makes a good Javascript Developer?](what_makes_a_good_javascript_developer.md)
@@ -19,5 +20,4 @@
 * [Addtional Resources](addtional_resources.md)
 * [Careers](careers.md)
 * [What makes a good programmer?](what_makes_a_good_programmer.md)
-* [Getting Started](getting_started0.md)
 
