@@ -14,6 +14,6 @@ Show an interest in other programming languages as well.
 
 Contribute to open source projects such as our own.
 
-Release an app.
+Release a mobile app.
 
 Get involved with meet up groups.
