@@ -16,6 +16,9 @@ const foobar = 'orly!?'
 console.log('debug something: ', foobar)
 ```
 
+## Think first
+Use your intuition before you dive down any rabbit holes.  What do you think the cause might be?  Have you made any recent changes that might have caused the bug. Can you roll back to a previous commit that works? 
+
 ## Search
 Learn how to search properly, both your code and google.  
 
