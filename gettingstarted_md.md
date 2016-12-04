@@ -8,6 +8,9 @@ We use [Gitter](https://gitter.im/CodeHubOrg/discussions) as a group chat and to
 
 We use Drop Box to share useful books and other resources.
 
+##CodeHub Discussions
+See what we have been up to over the previous sessions on the [discussions board](https://github.com/CodeHubOrg/discussions/issues/).
+
 ##Operating System
 
 We recommend using Linux(Ubuntu) or Mac for development due to the Linux Terminal. If you are using Windows you could try setting up a Virtual Machine to run Ubuntu.
