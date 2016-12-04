@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [About](chapter1.md)
+* The Learning Process
 * [Getting Started](getting_started.md)
    * The Learning Process
 * [What makes a good Javascript Developer?](what_makes_a_good_javascript_developer.md)
