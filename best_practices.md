@@ -18,7 +18,7 @@ A note pad and pen are the best tools for planning your solution and will save y
 [Read more
 ](https://data-sorcery.org/2010/12/29/hammock-driven-dev/)
 
-## Manage your time
+## Productivity
 
 * 
 [The Eisenhower Matrix
@@ -26,6 +26,9 @@ A note pad and pen are the best tools for planning your solution and will save y
 * 
 [The 80/20 Principle
 ](https://en.wikipedia.org/wiki/Pareto_principle)
+* [Pomodore Technique](http://cirillocompany.de/pages/pomodoro-technique)
+* [Kanban](https://www.atlassian.com/agile/kanban)
+
 
 ## Structure your code
 * Modules
