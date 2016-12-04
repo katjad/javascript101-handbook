@@ -71,7 +71,7 @@ Keep your code readable.  You and others will thank you in the future!
 ](http://ricardogeek.com/docs/clean_code.pdf)
 
 ## Iteration
-Remember software development is an iterative process.  Don't expect to write it perfect first time.  Refactor your code to make it better.
+Remember software development is an iterative process.  Don't expect to write it perfect first time.  Make it good enough and then refactor your code to make it better.
 
 ## Have Fun!
 
