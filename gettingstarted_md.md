@@ -55,3 +55,6 @@ Javascript - The Good PartsYou don't know JSSecrets of the Javascript NinjaThe P
 * Code Academy
 * Udacity
 * [Introduction to Programming Course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) with MIT on Edx.
+
+## Further Resources
+[Some JS resources collected by JS101 members.](https://github.com/CodeHubOrg/discussions/issues/1)
