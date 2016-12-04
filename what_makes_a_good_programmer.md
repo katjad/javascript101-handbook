@@ -1,4 +1,4 @@
-# What makes a Javascript developer?
+# What makes a good developer?
 
 * Willingness to learn
 * Practice, patience and perseverance
