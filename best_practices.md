@@ -29,12 +29,6 @@ A note pad and pen are the best tools for planning your solution and will save y
 * [Pomodore Technique](http://cirillocompany.de/pages/pomodoro-technique)
 * [Kanban](https://www.atlassian.com/agile/kanban)
 
-
-## Structure Code
-* Modules
-* Functions
-* Patterns
-
 ## Single Responsibility Principle
 Your functions and objects should do one thing only and do it well.
 
@@ -59,6 +53,11 @@ Keep it simple, stupid.
 
 ## YAGNI
 [You ain't gonna need it!](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it)  Don't add functionality until you need it.
+
+## Structure Code
+* Modules
+* Functions
+* Patterns
 
 ## Reuse Code
 Is there a module, tool or framework already written that fits your solution?
