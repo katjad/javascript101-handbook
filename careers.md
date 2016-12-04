@@ -2,7 +2,7 @@
 
 If you would like to do Javascript professionally it is obviously important to learn it properly, but also be confident speaking about it and other software development methodologies.
 
-You also have to think about how you can distinguish yourself from other candidates in a job interview.
+You also have to think about how you can distinguish yourself from other candidates in a job interview.  Not just technically, you have to show that on a personal level you would be a good fit.
 
 Start to build a portfolio of your skills on github with creative projects.  There is nothing more impressive than having a demo to show a prospective employer.  
 
