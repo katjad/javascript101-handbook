@@ -9,6 +9,9 @@ You can view our projects on [Github/CodeHub](https://github.com/CodeHubOrg/)
 
 Using git is easy once you know how!  You just need to know the basic concepts and commands to get going.
 
+[Useful Git techniques + other resources
+](https://github.com/CodeHubOrg/discussions/issues/12)
+
 A great way to learn is by doing a workshop.  Open a terminal window and type the following:
 ```
 npm install -g git-it
