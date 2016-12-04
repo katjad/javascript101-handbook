@@ -11,5 +11,5 @@ We recommend being comfortable with the core javascript concepts and functional 
 ## Todo App
 The classic framework example is the todo app.  You can see how the frameworks compare at [todomvc](http://todomvc.com/) 
 
-## Give It 5 minutes
-Why not give a framework that you hear about [5 minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)?  You don't have to spend days on it, however a bit of investigation could go a long way.
+## Give It Five minutes
+Why not give a framework that you hear about [five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)?  You don't have to spend days on it, however a bit of investigation could go a long way.
