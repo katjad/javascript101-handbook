@@ -8,6 +8,13 @@ Before you dive into coding, take a step back and think about the problem.
 
 A note pad and pen are the best tools for planning your solution and will save you a lot of time and headaches.
 
+
+> First, solve the problem. Then, write the code.
+
+        — John Johnson
+
+
+
 [Read more
 ](https://data-sorcery.org/2010/12/29/hammock-driven-dev/)
 
@@ -35,9 +42,12 @@ Your functions and objects should do one thing only and do it well.
 Keep it simple, stupid.
 
 
-> Simplicity is prerequisite for reliability.
 
-        — Edsger W. Dijkstra
+> Simplicity is the ultimate sophistication.
+
+        — Leonardo da Vinci
+
+
 
 
 
