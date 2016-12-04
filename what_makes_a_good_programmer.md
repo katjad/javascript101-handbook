@@ -1,7 +1,5 @@
 # What makes a Javascript developer?
 
-![](iknow.jpg)
-
 * Willingness to learn
 * Practice, patience and perseverance
 * Know your Javascript
