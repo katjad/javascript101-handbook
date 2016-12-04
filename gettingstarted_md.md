@@ -6,7 +6,7 @@ We use [Gitter](https://gitter.im/CodeHubOrg/discussions) as a group chat and to
 
 ##Drop Box
 
-We use Drop Box to share useful books and other resources.
+We use [Drop Box](https://www.dropbox.com) to share useful books and other resources.
 
 ##CodeHub Discussions
 See what we have been up to over the previous sessions by reading Katja's excellent write ups on the [discussions board](https://github.com/CodeHubOrg/discussions/issues/).
@@ -21,19 +21,19 @@ There are many ways to edit code, find one which suits your needs:
 
 ###Browser Based
 
-Code Pen
+[Code Pen](https://codepen.io/)
 
 ###Text Editor
 
-Atom is written in Javascript and is hackable!
+[Atom](https://atom.io/) is written in Javascript and is hackable!
 
 ###IDE
 
-Web Storm the best IDE around at the moment, ideal for big projects.
+[Web Storm](https://www.jetbrains.com/webstorm/) the best IDE around at the moment, ideal for big projects.
 
 ###Old School
 
-If you want to get old school use vim and never use your mouse again!
+If you want to get old school install vim via the command line and never use your mouse again!
 
 
 > Pro Tip: Install vim and type vimtutor in your terminal to take it for a spin!
