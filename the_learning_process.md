@@ -15,9 +15,9 @@ An acronym standing for Grok, Trunk, Live.  Adapted from the seminal talk [Learn
 Learn something new everyday.
 
 ## Trunk
-Trunk is more than just the SVN directory where everyone on your 150 person project commits to HEAD.
+Trunk is more than just the SVN directory. 
 
-Trunking is a way of life; it's expanding the tools in your programming fanny pack to make you adapt to any situation.
+Trunking is a way of life; it's expanding the tools in your programming tool belt to make you adapt to any situation.
 
 ## Live
 Life is short; programmers live it up.
