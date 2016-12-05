@@ -47,6 +47,12 @@ git-it
 ## Branches are cheap!
 Branches are cheap so use them!  For example if you want to play about with a new feature or do a bug fix.
 
+## Config
+The git config file is found in your project folder ./git/config
+
+### Pull Requests
+[How to make pull requests](https://docs.google.com/presentation/d/12XPsgBkarJLA6I1UJd7HK1izUpQfX2Lt2gQq91z9XNQ/edit?usp=sharing)
+
 ## Useful commands
 ```
 git clone [url] - clone a git repo
@@ -63,8 +69,3 @@ git merge branch - merge branch into current one
 git diff [commit ref 1] [commit ref 2] - show difference between commits
 git rebase - Rewrite time!  (becareful!)
 ```
-## Config
-The git config file is found in your project folder ./git/config
-
-### Pull Requests
-[How to make pull requests](https://docs.google.com/presentation/d/12XPsgBkarJLA6I1UJd7HK1izUpQfX2Lt2gQq91z9XNQ/edit?usp=sharing)
