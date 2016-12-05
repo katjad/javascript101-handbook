@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [About](chapter1.md)
+* FAQ
 * [Getting Started](gettingstarted_md.md)
 * [The Learning Process](the_learning_process.md)
 * [What makes a good developer?](what_makes_a_good_programmer.md)
@@ -20,5 +21,4 @@
 * [Addtional Resources](addtional_resources.md)
 * [Careers](careers.md)
 * [The God Father](douglas_crockford.md)
-* FAQ
 
