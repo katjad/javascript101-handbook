@@ -9,7 +9,7 @@ Learn Javascript you will.
 > 
 >      Malcolm Gladwell
 
-You may not need to become a Jedi Master, but to get anywhere you are going to have put some hard work in.
+You may not need to become a Jedi Master, but to get anywhere you are going to have put some time in.
 
 ## Kung Fu
 
