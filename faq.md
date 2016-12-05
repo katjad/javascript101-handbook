@@ -20,6 +20,10 @@ Yes, please give something back.
 
 Ideally yes, and if you can have node and npm installed that is a bonus!
 
+> Should I bring my ego?
+
+No, leave that at home please.
+
 > Do I need to bring any food?
 
 No, the Beatroot cafe does great food and coffee!
