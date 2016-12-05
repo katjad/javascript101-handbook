@@ -8,15 +8,17 @@ Learn Javascript you will.
 ## Personal Projects
 The best way to get good at coding is to make your own passion project and get stuck in!
 
-## Practice Makes Perfect
+## Kung Fu
 
+> [[Kung Fu](https://vimeo.com/120397980) means supreme skill through hard word](https://vimeo.com/120397980)
+
+
+## Practice Makes Perfect
 > It takes roughly [ten thousand hours](http://wisdomgroup.com/blog/10000-hours-of-practice/) of practice to achieve mastery in a field." 
 > 
 >      Malcolm Gladwell
 
 You may not need to become a Jedi Master, but to get anywhere you are going to have dedicate some practice in on a regular basis.
-
-This is the foundation of [Free Code Camp](https://www.freecodecamp.com/) where after a years full time study you should reach a proficient level.
 
 
 ## Read the Source, Luke
