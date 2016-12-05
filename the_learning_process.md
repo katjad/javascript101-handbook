@@ -5,7 +5,7 @@
 Learn Javascript you will.
 
 ## Practice Makes Perfect
-> It takes roughly [ten thousand hours](http://wisdomgroup.com/blog/10000-hours-of-practice/) of practice to achieve mastery in a field." 
+> "It takes roughly [ten thousand hours](http://wisdomgroup.com/blog/10000-hours-of-practice/) of practice to achieve mastery in a field." 
 > 
 >      Malcolm Gladwell
 
