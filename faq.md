@@ -3,7 +3,7 @@
 > Where can I find Javascript?
 
 ![](javascript-everywhere.jpg)
-Everywhere.
+[Everywhere.](http://sdtimes.com/the-future-of-javascript-is-almost-now)
 
 > But I already know Javascript!?
 
