@@ -18,7 +18,10 @@ npm install -g git-it
 git-it
 ```
 ## Installation
-[](sudo apt-get intall git)
+```
+## sudo apt-get install git
+
+```
 
 ## How to download code
 So you've seen a great project on github repository and you want to download a working copy and take a closer look.  This is called 'cloning the repo'.  Go to the repo github page click the 'clone or download' green button and copy the link.  Then enter the following command:
