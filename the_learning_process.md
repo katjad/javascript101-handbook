@@ -26,7 +26,7 @@ Go to a meet up and talk to other developers.  It's a great way to find out what
 
 ## Confusion
 > Remember if you feel confused, thats's good!  It means you are learning something!
-       - Fun Fun Function
+       - Mattias Petter Johansson, Fun Fun Function
 
 ##GTL
 An acronym standing for Grok, Trunk, Live.  
