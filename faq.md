@@ -10,7 +10,7 @@ Yes, we welcome all levels.
 
 > I'm a Javascript Ninja, is this group for me?
 
-Yes, please share your experience.
+Yes, please give something back.
 
 > Do I need to bring a laptop?
 
