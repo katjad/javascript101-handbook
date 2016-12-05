@@ -3,7 +3,7 @@
 In order to manage your own code and share code with others you need to use source control.
 
 ## Git
-Git is the standard version control system for open source and professional projects.  It is a distributed system (expand).
+Git is the standard version control system for open source and professional projects.  It is a distributed system (@todo expand).
 
 You can view our projects on [Github/CodeHub](https://github.com/CodeHubOrg/)
 
@@ -57,6 +57,7 @@ git add -u - add deleted files
 git commit -am "[commit message]" - add and commit with message
 git push [remote] [branch] - push changes to remote (typicall called origin) and branch name (main branch is called master)
 git merge branch - merge branch into current one
+git diff [commit1] [commit2]
 ```
 ## Config
 The git config file is found in your project folder ./git/config
