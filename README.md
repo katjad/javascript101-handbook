@@ -1,5 +1,5 @@
 # Javascript 101 Handbook
-## Wecome to the Fun, Friendly and Functional Meet Up!
+## Wecome to the Fun, Friendly and Functional JS101 Meet Up!
 ###[Meet Up](https://www.meetup.com/CodeHub-Bristol/) | [Chat](https://gitter.im/CodeHubOrg/discussions) | [Discussion](https://github.com/CodeHubOrg/discussions/issues/) | [Projects](https://github.com/CodeHubOrg/) | Presentations
 
 
