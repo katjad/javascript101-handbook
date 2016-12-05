@@ -42,7 +42,7 @@ git commit -am 'Initial Commmit'
 Then create a repo on your github account and follow the instructions to push your changes.
 
 ## Branches are cheap!
-Branches are cheap so use them!
+Branches are cheap so use them.  For example if you want to play about with a new feature or do a bug fix.
 
 ## Useful commands
 ```
