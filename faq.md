@@ -2,23 +2,24 @@
 
 > Where can I find Javascript?
 
+![](javascript-everywhere.jpg)
 Everywhere.
 
 > But I already know Javascript!?
 
-Yes, but do you know what you don't know?
+Yes, but do you know what [you don't know](https://github.com/getify/You-Dont-Know-JS)?
 
 > I'm a complete beginner, is this group for me?
 
 Yes, we welcome all levels.
 
-> I'm a Javascript Ninja, is this group for me?
+> I'm a [Javascript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja), is this group for me?
 
 Yes, please give something back.
 
 > Do I need to bring a laptop?
 
-Ideally yes, bonus points for having node and npm installed!
+Ideally yes, bonus points for having [node and npm](https://javascript101.gitbooks.io/guide/content/node_and_npm.html) installed!
 
 > Do I need to bring any food?
 
