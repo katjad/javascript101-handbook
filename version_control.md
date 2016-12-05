@@ -38,14 +38,14 @@ git commit -am 'Initial Commmit'
 Then create a repo on your github account and follow the instructions to push your changes.
 
 ## Git Workshop
-Work through the git workshop to get use to the commands.
+Work through the git workshop to get used to the commands.
 ```
 npm install -g git-it
 git-it
 ```
 
 ## Branches are cheap!
-Branches are cheap so use them.  For example if you want to play about with a new feature or do a bug fix.
+Branches are cheap so use them!  For example if you want to play about with a new feature or do a bug fix.
 
 ## Useful commands
 ```
