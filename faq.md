@@ -1,13 +1,16 @@
 # FAQs
 
+> But I already know Javascript!?
+
+Yes, but do you know what you don't know?
 
 > I'm a complete beginner, is this group for me?
 
 Yes, we welcome all levels.
 
-> I'm an experienced programmer, is this group for me?
+> I'm a Javascript Ninja, is this group for me?
 
-Yes, we welcome all levels.
+Yes, please share your experience.
 
 > Do I need to bring a laptop?
 
