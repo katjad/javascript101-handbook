@@ -18,6 +18,16 @@ npm install -g git-it
 git-it
 ```
 
+## How to download code
+So you've seen a great project on github repository and you want to download a working copy and take a closer look.  This is called 'cloning the repo'.  Go to the repo github page click the 'clone or download' green button and copy the link.  Then enter the following command:
+
+```
+https://github.com/CodeHubOrg/organisations-database.git
+```
+
+
+
+
 ## Useful commands
 ```
 git clone [url] - clone a git repo
