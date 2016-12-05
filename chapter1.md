@@ -21,7 +21,7 @@ CodeHub also organises a hack night at the Moment Offices every other Tuesday 6p
 
 [Bristol JS](https://www.meetup.com/BristolJS/) is another great meet up group that does talks and a social in the pub afterwards. 
 
-Keep an eye out for Hack nights such as at Simple Web.
+Simple Web organises hack nights from time to time.
 
 
 
