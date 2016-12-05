@@ -4,22 +4,19 @@
 
 Learn Javascript you will.
 
-
-## Personal Projects
-The best way to get good at coding is practical experience. Make your own passion project and get stuck in!
-
-## Kung Fu
-
-> [[Kung Fu](https://vimeo.com/120397980) means supreme skill through hard word](https://vimeo.com/120397980)
-
-
 ## Practice Makes Perfect
 > It takes roughly [ten thousand hours](http://wisdomgroup.com/blog/10000-hours-of-practice/) of practice to achieve mastery in a field." 
 > 
 >      Malcolm Gladwell
 
-You may not need to become a Jedi Master, but to get anywhere you are going to have dedicate some practice in on a regular basis.
+You may not need to become a Jedi Master, but to get anywhere you are going to have put some hard work in.
 
+## Kung Fu
+
+> [[Kung Fu](https://vimeo.com/120397980) means supreme skill through hard word](https://vimeo.com/120397980)
+
+## Personal Projects
+The best way to get good at coding is practical experience. Make your own passion project and get stuck in!
 
 ## Read the Source, Luke
 Take the time to read the source code of other projects.  It will help you write clean code in no time.
