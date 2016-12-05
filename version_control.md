@@ -22,10 +22,10 @@ git-it
 So you've seen a great project on github repository and you want to download a working copy and take a closer look.  This is called 'cloning the repo'.  Go to the repo github page click the 'clone or download' green button and copy the link.  Then enter the following command:
 
 ```
-https://github.com/CodeHubOrg/organisations-database.git
+git clone https://github.com/CodeHubOrg/organisations-database.git
 ```
 
-
+This will download the code to a directory called organisations-database, you can add a custom directory name as an additional parameter if you like.
 
 
 ## Useful commands
