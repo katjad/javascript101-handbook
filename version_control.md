@@ -19,7 +19,7 @@ git-it
 ```
 ## Installation
 ```
-## sudo apt-get install git
+sudo apt-get install git
 
 ```
 
