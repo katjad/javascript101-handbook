@@ -22,7 +22,7 @@ Everyone learns differently.  Find out the style that is best for  you.
 The best way to get good at coding is practical experience. Make your own passion project and get stuck in!
 
 ## Read the Source, Luke
-Take the time to read the source code of other projects.  It will help you write clean code in no time.
+Take the time to read the source code of other projects.  It will greatly help you write better code.
 
 
 ## Meet Ups
