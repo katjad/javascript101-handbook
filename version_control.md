@@ -33,8 +33,13 @@ git clone https://github.com/CodeHubOrg/organisations-database.git
 This will download the code to a directory called organisations-database, you can add a custom directory name as an additional parameter if you need to.
 
 ## How to save your code
-
-
+```
+cd [your project path]
+git init 
+git add .
+git commit -am 'Initial Commmit'
+```
+Then create a repo on your github account and follow the instructions to push your changes.
 
 ## Useful commands
 ```
