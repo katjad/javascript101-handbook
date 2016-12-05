@@ -38,6 +38,7 @@ git commit -am 'Initial Commmit'
 Then create a repo on your github account and follow the instructions to push your changes.
 
 ## Git Workshop
+Working through the git workshop to get use to the commands.
 ```
 npm install -g git-it
 git-it
