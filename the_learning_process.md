@@ -18,7 +18,7 @@ This is the foundation of [Free Code Camp](https://www.freecodecamp.com/) where 
 
 
 ## Read the Source, Luke
-Take the time to read the source code of other projects.  It will help you write beautiful code in no time.
+Take the time to read the source code of other projects.  It will help you write clean code in no time.
 
 
 ## Meet Ups
