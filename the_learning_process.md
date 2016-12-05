@@ -6,7 +6,7 @@ Learn Javascript you will.
 
 
 ## Personal Projects
-The best way to get good at coding is to make your own passion project and get stuck in!
+The best way to get good at coding is practical experience. Make your own passion project and get stuck in!
 
 ## Kung Fu
 
