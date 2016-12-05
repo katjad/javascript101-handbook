@@ -12,6 +12,7 @@
 * [Source Control](version_control.md)
 * [Testing](testing.md)
 * [Debugging](tools.md)
+* Javascript Versions
 * [Functional Programming](functional_programming.md)
 * [Databases](databases.md)
 * [Frameworks](frameworks.md)
@@ -19,5 +20,4 @@
 * [Addtional Resources](addtional_resources.md)
 * [Careers](careers.md)
 * [The God Father](douglas_crockford.md)
-* Javascript Versions
 
