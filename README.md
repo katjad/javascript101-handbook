@@ -5,6 +5,8 @@
 
 ![](JaY.png)
 
+## Welcome!
+
 :fire: Let's help you get started with everything you need to know about the group and keeping up to date with Javascript.
 
 ## Contributing
