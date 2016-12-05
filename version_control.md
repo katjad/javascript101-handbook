@@ -25,7 +25,7 @@ So you've seen a great project on github repository and you want to download a w
 git clone https://github.com/CodeHubOrg/organisations-database.git
 ```
 
-This will download the code to a directory called organisations-database, you can add a custom directory name as an additional parameter if you like.
+This will download the code to a directory called organisations-database, you can add a custom directory name as an additional parameter if you need to.
 
 
 ## Useful commands
