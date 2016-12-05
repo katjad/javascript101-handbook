@@ -12,7 +12,9 @@ We have also had "whiteboard sessions" where we have talked about
 programming concepts, for example different ways to declare a
 function.
 
-Is it for you? That's difficult to tell in advance, of course. We would say there is an emphasis on JavaScript as a programming language, not so much moving quickly to libraries like jQuery to achieve all kinds of effects. All skill levels are welcome!
+Is it for you? That's difficult to tell in advance, of course. We would say there is an emphasis on JavaScript as a programming language, not so much moving quickly to libraries like jQuery to achieve all kinds of effects. 
+
+All skill levels are welcome!
 
 ## Related Meet Ups
 CodeHub also organises a hack night at the Moment Offices every other Tuesday 6pm - 9pm.
