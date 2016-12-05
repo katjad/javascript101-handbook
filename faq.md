@@ -23,7 +23,7 @@ Ideally yes, bonus points for having [node and npm](https://javascript101.gitboo
 
 > Do I need to bring any food?
 
-No, the Beatroot cafe does great food and coffee!
+No, the [Beatroot cafe](http://www.beatrootcafe.com/#beatrootcafe) does great food and coffee!
 
 > Should I bring my ego?
 
