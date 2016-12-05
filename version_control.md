@@ -41,6 +41,9 @@ git commit -am 'Initial Commmit'
 ```
 Then create a repo on your github account and follow the instructions to push your changes.
 
+## Branches are cheap!
+Branches are cheap so use them!
+
 ## Useful commands
 ```
 git clone [url] - clone a git repo
