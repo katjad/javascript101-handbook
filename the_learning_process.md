@@ -53,4 +53,4 @@ Life is short; don't forget to have fun.
 > [How it feels to learn Javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.hbfnefvmw)
 >     - TD:DR There is a lot to learn.
 
-Don't worry, we hope this handbook serves you as a good guide to set you on the right path through the Javascript jungle.
+Hold tight! we hope this handbook serves you as a good guide to set you on the right path through the Javascript jungle.
