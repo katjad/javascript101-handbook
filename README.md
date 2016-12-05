@@ -4,7 +4,7 @@ Welcome to Javascript 101 meet up group!
 
 ![](JaY.png)
 
-Let's help you get started with everything you need to know about the group and Javascript :fire: :tiger: :train:
+Let's help you get started with everything you need to know about the group and Javascript :fire: :tiger: :train: x
 
 ## Contributing
 If you would like to help please contribute!
