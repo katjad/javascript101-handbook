@@ -15,6 +15,9 @@ You may not need to become a Jedi Master, but to get anywhere you are going to h
 
 > [[Kung Fu](https://vimeo.com/120397980) means supreme skill through hard word](https://vimeo.com/120397980)
 
+## What's Your Style?
+Everyone learns differently.  Find out the style that is best for  you.
+
 ## Personal Projects
 The best way to get good at coding is practical experience. Make your own passion project and get stuck in!
 
