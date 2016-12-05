@@ -17,6 +17,8 @@ A great way to learn is by doing a workshop.  Open a terminal window and type th
 npm install -g git-it
 git-it
 ```
+## Installation
+[](sudo apt-get intall git)
 
 ## How to download code
 So you've seen a great project on github repository and you want to download a working copy and take a closer look.  This is called 'cloning the repo'.  Go to the repo github page click the 'clone or download' green button and copy the link.  Then enter the following command:
@@ -26,6 +28,9 @@ git clone https://github.com/CodeHubOrg/organisations-database.git
 ```
 
 This will download the code to a directory called organisations-database, you can add a custom directory name as an additional parameter if you need to.
+
+## How to save your code
+
 
 
 ## Useful commands
