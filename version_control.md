@@ -3,7 +3,7 @@
 In order to manage your own code and share code with others you need to use source control.
 
 ## Git
-Git is the standard version control system for open source and professional projects.
+Git is the standard version control system for open source and professional projects.  It is a distributed system (expand).
 
 You can view our projects on [Github/CodeHub](https://github.com/CodeHubOrg/)
 
