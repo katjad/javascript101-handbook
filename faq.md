@@ -1,5 +1,9 @@
 # FAQs
 
+> Where can I find Javascript?
+
+Everywhere.
+
 > But I already know Javascript!?
 
 Yes, but do you know what you don't know?
@@ -15,7 +19,6 @@ Yes, please give something back.
 > Do I need to bring a laptop?
 
 Ideally yes, and if you can have node and npm installed that is a bonus!
-
 
 > Do I need to bring any food?
 
