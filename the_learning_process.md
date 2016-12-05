@@ -24,7 +24,6 @@ The best way to get good at coding is practical experience. Make your own passio
 ## Read the Source, Luke
 Take the time to read the source code of other projects.  It will greatly help you write better code.
 
-
 ## Meet Ups
 Go to a meet up and talk to other developers.  It's a great way to find out what's happening in the world of Javascript.
 
