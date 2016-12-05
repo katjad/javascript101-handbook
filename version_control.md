@@ -12,11 +12,7 @@ Using git is easy once you know how!  You just need to know the basic concepts a
 [Useful Git techniques + other resources
 ](https://github.com/CodeHubOrg/discussions/issues/12)
 
-A great way to learn is by doing a workshop.  Open a terminal window and type the following:
-```
-npm install -g git-it
-git-it
-```
+
 ## Installation
 ```
 sudo apt-get install git
@@ -40,6 +36,12 @@ git add .
 git commit -am 'Initial Commmit'
 ```
 Then create a repo on your github account and follow the instructions to push your changes.
+
+## Git Workshop
+```
+npm install -g git-it
+git-it
+```
 
 ## Branches are cheap!
 Branches are cheap so use them.  For example if you want to play about with a new feature or do a bug fix.
