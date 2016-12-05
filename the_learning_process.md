@@ -9,7 +9,8 @@ Learn Javascript you will.
 The best way to get good at coding is to make your own passion project and get stuck in!
 
 ## Practice Makes Perfect
-In the book Outliers, author Malcolm Gladwell says that it takes roughly [ten thousand hours](http://wisdomgroup.com/blog/10000-hours-of-practice/) of practice to achieve mastery in a field.  
+
+> It takes roughly [ten thousand hours](http://wisdomgroup.com/blog/10000-hours-of-practice/) of practice to achieve mastery in a field." -  Malcolm Gladwell
 
 You may not need to become a Jedi Master, but to get anywhere you are going to have dedicate some practice in on a regular basis.
 
