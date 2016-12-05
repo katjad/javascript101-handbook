@@ -18,7 +18,7 @@ Yes, please give something back.
 
 > Do I need to bring a laptop?
 
-Ideally yes, and if you can have node and npm installed that is a bonus!
+Ideally yes, bonus points for having node and npm installed!
 
 > Do I need to bring any food?
 
@@ -30,7 +30,7 @@ No, leave that at home please.
 
 > Should I offer to do a presentation?
 
-Yes! It's a great way to learn something well.
+Yes please! It's a great way to learn something well.
 
 > Where do babies come from?
 
