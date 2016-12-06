@@ -1,6 +1,6 @@
 # Javascript 101 Handbook
 
-[Meet Up](https://www.meetup.com/CodeHub-Bristol/) | [Chat](https://gitter.im/CodeHubOrg/discussions) | [Discussion](https://github.com/CodeHubOrg/discussions/issues/) | [Projects](https://github.com/CodeHubOrg/) | Presentations
+[Meet Up](https://www.meetup.com/CodeHub-Bristol/) | [Chat](https://gitter.im/CodeHubOrg/discussions) | [Discussion](https://github.com/CodeHubOrg/discussions/issues/) | [Projects](https://github.com/CodeHubOrg/) | Presentations | [Knowledge Base](https://javascript101.gitbooks.io/knowledgebase)
 
 
 ![](JaY.png)
