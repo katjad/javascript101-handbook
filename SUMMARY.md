@@ -18,8 +18,8 @@
 * [Databases](databases.md)
 * [Frameworks](frameworks.md)
 * [Tooling](tooling.md)
+* Presentations
 * [Addtional Resources](addtional_resources.md)
 * [Careers](careers.md)
 * [The God Father](douglas_crockford.md)
-* Presentations
 
