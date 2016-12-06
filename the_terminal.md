@@ -2,7 +2,7 @@
 
 ![](matrix.jpg)
 
-Learning to use the terminal will open up doors for you.  It is important for setting up projects and package management.
+Learning to use the terminal is the first door you must open.  It is important for setting up projects, package management and will allow you do all sorts of useful things.
 
 [An Introduction to the Linux Terminal](https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal)
 
