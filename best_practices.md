@@ -36,7 +36,7 @@ Your functions and objects should do one thing only and do it well.
 ](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 
 ## KISS
-Keep it simple, stupid.
+[Keep it simple, stupid.](https://en.wikipedia.org/wiki/KISS_principle)
 
 
 
@@ -46,10 +46,14 @@ Keep it simple, stupid.
 
 
 ## DRY
-[Don't repeat yourself!](https://en.wikipedia.org/wiki/Don't_repeat_yourself)  If you find yourself writing the same code more than twice, break it out into a function.
+[Don't repeat yourself!](https://en.wikipedia.org/wiki/Don't_repeat_yourself)  
+
+If you find yourself writing the same code more than twice, break it out into a function.
 
 ## YAGNI
-[You ain't gonna need it!](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it)  Don't add functionality until you need it.
+[You ain't gonna need it!](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it)  
+
+A principle of extreme programming that states don't add functionality until you need it.
 
 ## Structure Code
 * Modules
