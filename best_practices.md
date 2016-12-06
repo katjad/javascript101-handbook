@@ -86,6 +86,7 @@ Ask someone to review you code for feedback.
 
 
 ## Coding Standards
+Keep your code readable, consistent and maintainable
 https://github.com/rwaldron/idiomatic.js
 
 [ESlint](http://eslint.org/)
