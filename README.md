@@ -10,4 +10,4 @@
 :fire: Let's help you get started with everything you need to know about the group and keeping up to date with Javascript.
 
 ## Contributing
-If you have any feedback or would like to contribute please let use know [here](https://gitter.im/CodeHubOrg/discussions).
+:heart: If you have any feedback or would like to contribute please let use know [here](https://gitter.im/CodeHubOrg/discussions).
