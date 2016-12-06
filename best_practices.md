@@ -116,7 +116,7 @@ Design patterns are reusable solutions to commonly occurring problems in softwar
 Copy and paste variables to avoid error messages from spelling mistakes.  Try not to [copy and paste code](https://sourcemaking.com/antipatterns/cut-and-paste-programming) from Stack Overflow and other places without at least trying to understand how it works.
 
 ## Keep learning
-Never stop learning.  There are so many resources out there.  Try other languages.  Talk to other developers.  What's happening in the community?  Keep adding new tools to your belt, then you have more options for your solutions.
+Never stop learning.  There are so many resources out there such as [books](https://www.safaribooksonline.com/register/), [blogs](http://ilikekillnerds.com/2015/10/a-list-of-great-blogs-sites-about-javascript/) and [podcasts](https://devchat.tv/js-jabber).  Try other languages.  [Talk to other developers](https://www.meetup.com/CodeHub-Bristol/).  What's happening in the community?  Keep adding new tools to your belt, then you have more options for your solutions.
 
 ## Have Fun!
 
