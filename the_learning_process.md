@@ -27,8 +27,8 @@ Take the time to read the source code of other projects.  It will greatly help y
 ## Meet Ups
 Go to a meet up and talk to other developers.  It's a great way to find out what's happening in the world of Javascript.
 
-## Confusion
-> Remember if you feel confused, thats's good!  It means you are learning something!
+## Confusion is your friend
+> The feeling of confusion is your friend, it means your are learning something!
        - Mattias Petter Johansson, Fun Fun Function
 
 ##GTL
