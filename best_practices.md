@@ -95,12 +95,12 @@ Keep your code readable, consistent and maintainable.
 Learn how to practice TDD/BDD it will help you write decoupled code with less bugs.
 
 ## Use the source control, Luke!
-Use source control, what would happen if the dog ate your codes?
+Use [source control](https://javascript101.gitbooks.io/guide/content/version_control.html), what would happen if the dog ate your codes?
 
 ## Documentation
 Comment your code, however if you have well structured [clean code](http://ricardogeek.com/docs/clean_code.pdf) with descriptive functions and variables the code should speak for it's self.
 
-[Learn the art of README
+[Make sure your project has a good README file
 ](https://github.com/noffle/art-of-readme)
 
 ## Design Patterns
