@@ -112,6 +112,13 @@ Design patterns are reusable solutions to commonly occurring problems in softwar
 ## Anti Patterns
 [You don't want to do it like that.](https://sourcemaking.com/antipatterns/software-development-antipatterns)
 
+## Automate
+...
+
+## Configure
+...
+
+
 ## Copy & Paste Variables
 Copy and paste variables to avoid error messages from spelling mistakes.  Try not to [copy and paste code](https://sourcemaking.com/antipatterns/cut-and-paste-programming) from Stack Overflow and other places without at least trying to understand how it works.
 
