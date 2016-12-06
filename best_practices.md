@@ -86,10 +86,10 @@ Ask someone to review you code for feedback.
 
 
 ## Coding Standards
-Keep your code readable, consistent and maintainable
-https://github.com/rwaldron/idiomatic.js
+Keep your code readable, consistent and maintainable.
 
-[ESlint](http://eslint.org/)
+* [Style Guide](https://github.com/rwaldron/idiomatic.js)
+* [Tooling](http://eslint.org/) 
 
 ## Testing
 Learn how to practice TDD/BDD it will help you write decoupled code with less bugs.
