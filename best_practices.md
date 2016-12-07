@@ -39,10 +39,13 @@ Your functions and objects should do one thing only and do it well.
 [Keep it simple, stupid.](https://en.wikipedia.org/wiki/KISS_principle)
 
 
+> Simplicity is prerequisite for reliablility
+>     - Edsger W. Dijkstra 
+
+
 
 > "Simplicity is the ultimate sophistication."
-
-        — Leonardo da Vinci
+>         — Leonardo da Vinci
 
 
 ## DRY
