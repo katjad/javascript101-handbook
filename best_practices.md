@@ -42,10 +42,12 @@ Your functions and objects should do one thing only and do it well.
 > Simplicity is prerequisite for reliablility
 >     - Edsger W. Dijkstra 
 
-
+[Simple Made Easy
+](https://www.infoq.com/presentations/Simple-Made-Easy)
 
 > "Simplicity is the ultimate sophistication."
->         — Leonardo da Vinci
+> 
+>     — Leonardo da Vinci
 
 
 ## DRY
