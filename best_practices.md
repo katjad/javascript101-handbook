@@ -43,7 +43,7 @@ Your functions and objects should do one thing only and do it well.
 >     - Edsger W. Dijkstra 
 
 [Simple Made Easy
-](https://www.infoq.com/presentations/Simple-Made-Easy)
+](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md)
 
 > "Simplicity is the ultimate sophistication."
 > 
