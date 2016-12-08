@@ -13,7 +13,7 @@ programming concepts, for example different ways to declare a
 function.
 
 ## Is this group for me?[](http://eloquentjavascript.net/)
-Is it for you? That's difficult to tell in advance, of course. We would say there is an emphasis on JavaScript as a programming language, not so much moving quickly to libraries like jQuery to achieve all kinds of effects. 
+Is it for you? That's difficult to tell in advance, of course. We would say there is an emphasis on JavaScript as a programming language, not so much moving quickly to libraries like [jQuery](https://jquery.com/) to achieve all kinds of effects. 
 
 All skill levels are welcome!
 
