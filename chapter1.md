@@ -18,11 +18,11 @@ Is it for you? That's difficult to tell in advance, of course. We would say ther
 All skill levels are welcome!
 
 ## Related Meet Ups
-CodeHub also organises a hack night at the Moment Offices every other Tuesday 6pm - 9pm.
+[CodeHub](https://www.meetup.com/CodeHub-Bristol/) also organises a hack night at the Moment Offices every other Tuesday 6pm - 9pm.
 
 [Bristol JS](https://www.meetup.com/BristolJS/) is another great meet up group that holds talks and a social in the pub afterwards. 
 
-Simple Web holds hack nights from time to time.
+[Simple Web](https://www.meetup.com/simpleweb/) holds hack nights from time to time.
 
 
 
