@@ -1,5 +1,5 @@
-# Addtional Resources
+# Additional Resources
 
-
-[Essential Javscript links
+[Essential Javascript links  
 ](https://github.com/ericelliott/essential-javascript-links)
+
