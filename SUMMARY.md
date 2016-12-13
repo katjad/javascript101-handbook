@@ -4,12 +4,13 @@
 * [About](chapter1.md)
 * [FAQ](faq.md)
 * [Getting Started](gettingstarted_md.md)
-* [Working environment tricks?](working-environment-tricks.md)
+* [Working Environment Setup?](working-environment-tricks.md)
 * [The Learning Process](the_learning_process.md)
 * [What makes a good developer?](what_makes_a_good_programmer.md)
 * [Key Concepts](key_concepts.md)
 * [Best Practices](best_practices.md)
 * [Terminal Window](the_terminal.md)
+* [Front End Frameworks](front-end-frameworks.md)
 * [Node and Npm](node_and_npm.md)
 * [Source Control](version_control.md)
 * [Testing](testing.md)
@@ -20,7 +21,6 @@
 * [Frameworks](frameworks.md)
 * [Tooling](tooling.md)
 * [Presentations](presentations.md)
-* [Addtional Resources](addtional_resources.md)
+* [Additional Resources](addtional_resources.md)
 * [Careers](careers.md)
-* Working environment tricks?
 
