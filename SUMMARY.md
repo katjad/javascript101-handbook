@@ -23,4 +23,5 @@
 * [Presentations](presentations.md)
 * [Additional Resources](addtional_resources.md)
 * [Careers](careers.md)
+* [Deployment](deployment.md)
 
