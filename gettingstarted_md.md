@@ -60,6 +60,8 @@ Further Reading:
 * [Udacity](https://www.udacity.com/)
 * [Introduction to Programming Course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) with MIT on Edx.
 
+It's particularly important with Javascipt to make sure the resources you're using are up to date... a resource that's just a couple of years old can be way out of date; Javascript frameworks and methods are evolving rapidly.
+
 ## Further Resources
 
 [Some JS resources collected by JS101 members.](https://github.com/CodeHubOrg/discussions/issues/1)

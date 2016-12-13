@@ -1,4 +1,4 @@
-# Javascript 101 Handbook
+# Bristol Javascript 101 Meetup Handbook
 
 ![](JaY.png)
 
