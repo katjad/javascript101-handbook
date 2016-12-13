@@ -6,7 +6,7 @@
 
 :fire: Let's help you get started with everything you need to know about the group and keeping up to date with Javascript.
 
-
+This is the index for all the resources we use...
 
 [Meetup](https://www.gitbook.com/book/javascript101/guide/edit#) - our main Meetup.com page
 

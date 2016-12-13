@@ -10,7 +10,6 @@
 * [Key Concepts](key_concepts.md)
 * [Best Practices](best_practices.md)
 * [Terminal Window](the_terminal.md)
-* [Front End Frameworks](front-end-frameworks.md)
 * [Node and Npm](node_and_npm.md)
 * [Source Control](version_control.md)
 * [Testing](testing.md)
@@ -19,9 +18,9 @@
 * [Functional Programming](functional_programming.md)
 * [Databases](databases.md)
 * [Frameworks](frameworks.md)
+* [Deployment](deployment.md)
 * [Tooling](tooling.md)
 * [Presentations](presentations.md)
 * [Additional Resources](addtional_resources.md)
 * [Careers](careers.md)
-* [Deployment](deployment.md)
 
