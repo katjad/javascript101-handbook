@@ -26,7 +26,7 @@ There are many ways to edit code, find one which suits your needs:
 
 ### Text Editor
 
-[Atom](https://atom.io/) is written in Javascript and is hackable!
+[Atom](https://atom.io/) is written in Javascript and is hackable! MS Visual Code is open source and also pretty swish.
 
 ### IDE
 

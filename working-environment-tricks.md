@@ -6,12 +6,13 @@ Many of these things don't even enter your mind as a new programmer, because you
 
 Tips like:
 
-* How to set up ESLint, a code linter plugin. Will advise of inconsistencies and bad form in your code. Really useful to point out syntax errors.
+* How to set up ESLint, a code linter plugin. ESLint will advise of inconsistencies and 'bad' style in your code. Really useful to point out syntax errors.
 * How to set your editor to autosave \(no more CTRL+S\)
 * Autocompletion and Emmet type functionality 
 * Auto-reloading HTML browser plugins, and later, Webpack-dev-server et al.
 * JSON formatting browser plugins
 * ...
 
+This page requires some discussion in the group. We briefly suggested it for a session and promptly forgot all about it!
 
 

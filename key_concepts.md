@@ -14,7 +14,7 @@ There are some key javascript concepts that it is important that you understand 
 * The Module Pattern
 * How to structure your code
 * Recognising OOP vs Functional styles when you see them
-* Recognising ES5 vs ES6 code, when you can use ES6 and the need for transpiling if you do use it
+* Recognising ES5 vs ES6 code, when/where you are able to use ES6 and the need for transpiling if you do use it
 
 
 
