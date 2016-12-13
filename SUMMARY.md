@@ -4,6 +4,7 @@
 * [About](chapter1.md)
 * [FAQ](faq.md)
 * [Getting Started](gettingstarted_md.md)
+* [Working environment tricks?](working-environment-tricks.md)
 * [The Learning Process](the_learning_process.md)
 * [What makes a good developer?](what_makes_a_good_programmer.md)
 * [Key Concepts](key_concepts.md)
@@ -21,5 +22,5 @@
 * [Presentations](presentations.md)
 * [Addtional Resources](addtional_resources.md)
 * [Careers](careers.md)
-* [The God Father](douglas_crockford.md)
+* Working environment tricks?
 
