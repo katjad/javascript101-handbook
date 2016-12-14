@@ -8,19 +8,19 @@
 
 This is the index for all the resources we use...
 
-[Meetup](https://www.gitbook.com/book/javascript101/guide/edit#) - our main Meetup.com page
+[Meetup](https://www.meetup.com/CodeHub-Bristol/) - our main Meetup.com page
 
-[Chat](https://www.gitbook.com/book/javascript101/guide/edit#) - our Gitter chat page
+[Chat](https://gitter.im/CodeHubOrg/discussions) - our Gitter chat page
 
-[Discussion](https://www.gitbook.com/book/javascript101/guide/edit#) - Katja puts Meetup discussion notes here
+[Discussion](https://github.com/CodeHubOrg/discussions/issues) - Katja puts Meetup discussion notes here
 
 [Wiki](https://github.com/CodeHubOrg/organisations-database/wiki)  \[do we want to migrate this into this handbook???\]
 
-[Projects](https://www.gitbook.com/book/javascript101/guide/edit#) - Github repos for projects and sessions
+[Projects](https://github.com/CodeHubOrg) - Github repos for projects and sessions
 
-[Presentations](https://www.gitbook.com/book/javascript101/guide/edit#) - Past meetup presentations
+[Presentations](https://javascript101.gitbooks.io/guide/content/presentations.html) - Past meetup presentations
 
-[Knowledgebase](https://www.gitbook.com/book/javascript101/guide/edit#) - Q&A
+[Knowledgebase](https://www.gitbook.com/book/javascript101/knowledgebase/) - Q&A
 
 ## Contributing
 
